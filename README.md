@@ -1,3 +1,4 @@
+🐳 Lab Docker GLPI
 # TP Docker Compose GLPI
 
 Déploiement d'une stack GLPI avec Docker Compose comprenant :
